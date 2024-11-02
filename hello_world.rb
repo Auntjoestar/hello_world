@@ -1,1 +1,3 @@
-puts "Hello world!"
+name = gets.chomp()
+
+puts "Hello #{name}!s"
